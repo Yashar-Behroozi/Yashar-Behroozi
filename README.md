@@ -1,6 +1,4 @@
-### Hi there 👋, my name is Yashar
-#### Innovation & Design Consultant
-![Innovation & Design Consultant](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Innovation & Design Consultant](https://github.com/Yashar-Behroozi/Yashar-Behroozi/blob/main/Yashar-Innovation%26Design.jpg)
 
 Innovation & Design Consultant - Helping businesses transform how they innovate, design, develop and launch new products. 
 
